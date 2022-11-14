@@ -1,5 +1,5 @@
 import logo from './busquelogo.png'
-
+import user from './user.png'
 
 
 
@@ -107,4 +107,4 @@ var ResPlazaNorte = [
 
 
 
-export default { logo, PqMusique, PqMontreal, PqSaoJoao, ResMarajo, ResMataA, ResPequim, ResCartagena, ResPlazaNorte}
+export default {user, logo, PqMusique, PqMontreal, PqSaoJoao, ResMarajo, ResMataA, ResPequim, ResCartagena, ResPlazaNorte}
